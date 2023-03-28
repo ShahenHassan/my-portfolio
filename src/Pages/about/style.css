@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(152, 219, 241);
+}
+span {
+  margin: 10px;
+}
+span:hover {
+  color: rgb(236, 6, 6);
+}
